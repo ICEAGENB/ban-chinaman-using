@@ -1,0 +1,23 @@
+{
+  "name": "ban-chinaman-using",
+  "version": "1.0.0",
+  "description": "Ban Chinaman Using",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ban-chinaman-using/ban-chinaman-using.git"
+  },
+  "keywords": [
+    "ban",
+    "chinaman",
+    "using"
+  ],
+  "author": "ban-chinaman-using",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ban-chinaman-using/ban-chinaman-using/issues"
+  }
+}
