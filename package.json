@@ -2,7 +2,7 @@
   "name": "ban-chinaman-using",
   "version": "1.0.0",
   "description": "Ban Chinaman Using",
-  "main": "index.js",
+  "main": "src/Main.res.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
