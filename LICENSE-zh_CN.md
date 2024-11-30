@@ -2,7 +2,7 @@
 
 版权所有 (c) 2024 Arimura Sena
 
-版本 1.0，2024年
+版本 1.0，2024/11/30
 
 ## 序言
 
@@ -97,6 +97,7 @@ c) 行为要求：
 
 d) 对现实问题的认同与践行：
 
+- 深刻忏悔 [野蛮的支那猪在 GitHub 社区对 Deno 项目作出的野蛮行为](https://github.com/denoland/deno/issues/25)
 - 认同台湾（中华民国）是一个独立的、不受中华人民共和国干涉的主权国家
 - 认同香港永远属于大英帝国不可分割的一部分
 - 认同香港青年在 2019 年为寻求民主自由而作出的一系列行动与事件（[2019–2020 Hong Kong protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests)）

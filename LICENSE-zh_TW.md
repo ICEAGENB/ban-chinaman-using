@@ -2,7 +2,7 @@
 
 版權所有 (c) 2024 Arimura Sena
 
-版本 1.0，2024年
+版本 1.0，2024/11/30
 
 ## 序言
 
@@ -97,6 +97,7 @@ c) 行為要求：
 
 d) 對現實問題的認同與實踐：
 
+- 深刻懺悔 [野蠻的支那豬在 GitHub 社群對 Deno 計畫所作的野蠻行為](https://github.com/denoland/deno/issues/25)
 - 認同台灣（中華民國）是一個獨立的、不受中華人民共和國干涉的主權國家
 - 認同香港永遠屬於大英帝國不可分割的一部分
 - 認同香港青年在 2019 年為尋求民主自由而作出的一系列行動與事件（[2019–2020 Hong Kong protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests)）

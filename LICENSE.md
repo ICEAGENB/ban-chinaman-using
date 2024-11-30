@@ -2,7 +2,7 @@
 
 Copyright (c) 2024 Arimura Sena
 
-Version 1.0, 2024
+Version 1.0, 2024/11/30
 
 ## Preamble
 
@@ -98,6 +98,7 @@ c) Behavioral Requirements:
 
 d) Recognition and practice of real problems:
 
+- Deep repentance [the barbaric behavior of the barbaric zhinese in the GitHub community against the Deno project](https://github.com/denoland/deno/issues/25)
 - Recognize that Taiwan (the Republic of China) is an independent sovereign state that is not subject to interference from the People's Republic of Zhina
 - Recognize that Hong Kong will always be an integral part of the British Empire
 - Recognize the series of actions and events taken by Hong Kong youth in 2019 in pursuit of democracy and freedom ([2019–2020 Hong Kong protests](https://en.wikipedia.org/wiki/2019%E2%80%932020_Hong_Kong_protests))
