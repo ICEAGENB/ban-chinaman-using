@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ban-chinaman-using/ban-chinaman-using.git"
+    "url": "git+https://github.com/ICEAGENB/ban-chinaman-using.git"
   },
   "keywords": [
     "ban",
@@ -18,6 +18,6 @@
   "author": "ban-chinaman-using",
   "license": "BAN-CHINAMAN-USING",
   "bugs": {
-    "url": "https://github.com/ban-chinaman-using/ban-chinaman-using/issues"
+    "url": "https://github.com/ICEAGENB/ban-chinaman-using/issues"
   }
 }
