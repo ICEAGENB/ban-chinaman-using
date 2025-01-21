@@ -1,23 +1,23 @@
 {
-  "name": "ban-chinaman-using",
+  "name": "ban-zhinese-using",
   "version": "1.0.0",
-  "description": "Ban Chinaman Using",
+  "description": "Ban Zhinese Using",
   "main": "src/Main.res.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ICEAGENB/ban-chinaman-using.git"
+    "url": "git+https://github.com/ICEAGENB/BAN-ZHINESE-USING.git"
   },
   "keywords": [
     "ban",
     "chinaman",
     "using"
   ],
-  "author": "ban-chinaman-using",
-  "license": "BAN-CHINAMAN-USING",
+  "author": "BAN-ZHINESE-USING",
+  "license": "BAN-ZHINESE-USING",
   "bugs": {
-    "url": "https://github.com/ICEAGENB/ban-chinaman-using/issues"
+    "url": "https://github.com/ICEAGENB/BAN-ZHINESE-USING/issues"
   }
 }
